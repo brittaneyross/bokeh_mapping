@@ -8,4 +8,3 @@ dependencies:
   - geopandas
   - shapely
   - networkx
-  - jupyter_contrib_nbextensions
